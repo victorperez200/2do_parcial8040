@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _2do_parcial_ejercicio_1
+namespace _2do_parcial_ejercicio2
 {
     class Empleado
     {
